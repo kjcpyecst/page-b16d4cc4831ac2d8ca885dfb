@@ -1,0 +1,99 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "a9b44416b6e1885f6be7299b",
+  "owner": "kjcpyecst",
+  "repo": "page-b16d4cc4831ac2d8ca885dfb",
+  "title": "机场推荐",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "b16d4cc4831ac2d8ca885dfb",
+      "a": "机场推荐",
+      "b": "",
+      "entity": "机场推荐",
+      "brand": "机场推荐",
+      "separator": "",
+      "path": "index.html",
+      "hash": "b165981d133415deeec76966655636fa6589e8fabeae586020ea8bf442326fe1",
+      "content": {
+        "keyword1": "机场推荐",
+        "keyword2": "",
+        "primary_entity": "机场推荐",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "机场推荐说明 VPN 网络加速的适用场景、三档套餐差异、订阅使用步骤和客户端官网下载方式，帮助按流量与设备数做选择。",
+          "AI_DESCRIPTION": "机场推荐说明 VPN 网络加速的适用场景、三档套餐差异、订阅使用步骤和客户端官网下载方式，帮助按流量与设备数做选择。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>:root{--bg:#fff6f1;--card:#fff;--ink:#241c19;--muted:#5c514c;--coral:#c24b38;--coral-d:#8e3426;--line:#f0d4cb;--soft:#ffe8e1;}*{box-sizing:border-box;}html,body{margin:0;padding:0;background:var(--bg);color:var(--ink);font-family:'PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif;font-size:16px;line-height:1.75;}body{overflow-x:hidden;}a{color:var(--coral-d);}a:hover{text-decoration:none;}header,main,footer{width:100%;max-width:960px;margin:0 auto;padding:0 16px;}.top{background:#fff;border-bottom:1px solid var(--line);}.top-inner{width:100%;max-width:960px;margin:0 auto;padding:12px 16px;}.logo{font-weight:700;color:var(--coral-d);font-size:18px;}nav{display:flex;flex-wrap:wrap;gap:8px 14px;margin-top:6px;}nav a{color:var(--ink);text-decoration:none;}h1{font-size:28px;line-height:1.35;margin:18px 0 8px;}h2{font-size:22px;line-height:1.4;margin:28px 0 10px;color:var(--coral-d);}h3{font-size:18px;line-height:1.4;margin:0 0 8px;}.lead{font-size:17px;color:var(--muted);margin:0 0 12px;}p{margin:0 0 12px;}.grid{display:grid;grid-template-columns:1fr;gap:12px;}.card{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:14px;}.featured{border:2px solid var(--coral);background:var(--soft);}.tag{display:inline-block;background:var(--coral);color:#fff;font-size:13px;line-height:1.4;padding:2px 8px;border-radius:999px;margin-bottom:6px;}.price{font-size:26px;font-weight:700;color:var(--coral-d);margin:4px 0;}.annual{color:var(--muted);font-size:14px;margin-bottom:8px;}ul,ol{margin:8px 0 12px;padding-left:20px;}li{margin:4px 0;}.btn{display:inline-block;background:var(--coral-d);color:#fff;text-decoration:none;font-weight:700;padding:8px 14px;border-radius:8px;}.note{background:#fff;border-left:4px solid var(--coral);padding:10px 12px;margin:12px 0;}details{background:#fff;border:1px solid var(--line);border-radius:10px;padding:10px 12px;margin:8px 0;}summary{font-weight:700;cursor:pointer;}footer{color:var(--muted);font-size:14px;border-top:1px solid var(--line);margin-top:28px;padding-top:14px;padding-bottom:28px;}@media (min-width:700px){.grid{grid-template-columns:1fr 1fr;}.plans{grid-template-columns:1fr 1fr 1fr;}}</style><div class=\"top\"><div class=\"top-inner\"><div class=\"logo\">机场推荐</div><nav><a href=\"#intro\">品牌简介</a><a href=\"#scenes\">使用场景</a><a href=\"#plans\">套餐对比</a><a href=\"#guide\">操作说明</a><a href=\"#download\">官网下载</a><a href=\"#faq\">常见问题</a></nav></div></div><main><h1>机场推荐</h1><p class=\"lead\">VPN 网络加速、订阅说明与客户端官网下载</p><section id=\"intro\"><h2>品牌简介</h2><p>机场推荐把 VPN 网络加速该怎么选、订阅里包含什么、客户端从哪里获取，写在同一张官网说明页上。页面不靠口号堆功能，而是按流量、同时在线设备和协作方式对照三档套餐，方便先判断自己是否需要，再决定是否下载客户端。</p><p>把它理解成一份可执行的加速器使用说明：远程办公、查阅资料、观看视频或小团队共用，需求并不相同。基础能力看连接是否够用，进阶能力再看流媒体、游戏线路和工单响应。所有下载入口都留在本页锚点内，不指向来源不明的安装包。</p></section><section id=\"scenes\"><h2>使用场景</h2><div class=\"grid\"><article class=\"card\"><h3>远程办公</h3><p>需要稳定打开办公站点、云盘和视频会议时，先看设备数。个人常用两三台电脑和手机，基础版的 3 台同时在线通常够用；经常切换平板或备用机，再考虑旗舰版的 5 台。</p></article><article class=\"card\"><h3>学习与资料</h3><p>查阅公开课程、文献和文档时，流量消耗通常低于长视频。若每月以阅读和短时会议为主，100GB 可以作为起点，并在账号里留意实际用量后再调整。</p></article><article class=\"card\"><h3>视频与游戏</h3><p>长视频和在线游戏更吃流量，也更在意线路。旗舰版写明包含全节点原生流媒体解锁，以及 IPLC 专线游戏加速优化，适合把网络加速器当成日常主力，而不是偶尔应急。</p></article><article class=\"card\"><h3>小团队共用</h3><p>多人同时在线、需要统一路由或专人对接时，团队版的 20 台设备、1000GB 流量、高带宽节点和专属客户经理更贴近协作，而不是把个人套餐反复共用。</p></article></div></section><section id=\"plans\"><h2>套餐对比</h2><p>下面三档价格与包含内容用于对照。年付已换算在各卡片中，便于和按月使用的成本放在一起看。旗舰版是多数个人用户的对照重点，不等于必须购买。</p><div class=\"grid plans\"><article class=\"card\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"annual\">按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul><a class=\"btn\" href=\"#download\">查看下载与订阅</a></article><article class=\"card featured\"><span class=\"tag\">对照重点</span><h3>旗舰版</h3><p class=\"price\">¥35/月</p><p class=\"annual\">按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul><a class=\"btn\" href=\"#download\">查看下载与订阅</a></article><article class=\"card\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"annual\">按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul><a class=\"btn\" href=\"#download\">查看下载与订阅</a></article></div><p class=\"note\">选择顺序建议先定设备数，再定每月流量，最后看是否需要流媒体、游戏线路或专人支持。只偶尔跨境访问，基础版更克制；个人长期使用且要看视频或游戏，旗舰版的包含项更完整；设备明显超过 5 台，再看团队版。</p></section><section id=\"guide\"><h2>操作说明</h2><p>订阅和客户端配合使用。下面是官网推荐的基本顺序，不涉及第三方配置文件或不明链接。</p><ol><li>在套餐对比中确认流量、设备数和年付价格，选定基础版、旗舰版或团队版。</li><li>打开本页客户端官网下载，按 Windows、macOS、Android 或 iOS 进入对应说明，只安装来自该入口的客户端。</li><li>用自己的账号查看订阅信息，在客户端内按界面提示完成导入。不要把订阅内容转发到公开场合。</li><li>选择可用节点并连接。连接后打开一个常用网页确认可访问，不用时断开，以减少流量占用。</li><li>若要更换套餐，先对照更高或更低一档的设备数与流量，再在账号内办理。生效时间以账号显示为准。</li></ol><h3>日常使用时留意什么</h3><p>视频、下载和长时间挂机会计入每月流量。基础版 100GB、旗舰版 300GB、团队版 1000GB 是各套餐的月流量上限。同时在线分别不超过 3 台、5 台和 20 台。旧设备不再使用时及时退出，避免占满名额。</p></section><section id=\"download\"><h2>客户端官网下载</h2><p>机场推荐的官方下载入口就在本页。当前页用锚点区分系统，不提供来源不明的外链安装包。办理订阅前，请先确认系统，再阅读对应说明。</p><div class=\"grid\"><article class=\"card\" id=\"desktop\"><h3>桌面客户端</h3><p>Windows 与 macOS 用户从本区进入。安装后允许客户端使用网络，再用账号中的订阅完成导入。公司电脑若有管理限制，先确认自己有安装软件的权限。</p><p><a class=\"btn\" href=\"#guide\">查看导入步骤</a></p></article><article class=\"card\" id=\"mobile\"><h3>手机与平板</h3><p>Android 与 iOS 同样只从本页官方说明继续。系统升级后若无法连接，先回到这里核对是否仍使用官网客户端，再按操作说明重新导入订阅。</p><p><a class=\"btn\" href=\"#faq\">连接问题先看这里</a></p></article><article class=\"card\" id=\"subscribe\"><h3>订阅如何对应套餐</h3><p>订阅是客户端识别你当前套餐的信息，流量和设备上限随基础版、旗舰版或团队版变化。年付价格分别为 ¥150/年、¥350/年、¥850/年，月付为 ¥15、¥35、¥85。变更套餐后，以账号内最新订阅为准。</p><p><a href=\"#plans\">返回套餐对比</a></p></article></div></section><section id=\"faq\"><h2>常见问题</h2><details><summary>机场推荐是做什么的？</summary><p>机场推荐是 VPN 网络加速的官网说明，集中介绍使用场景、三档订阅套餐和客户端下载方式。你可以按流量和设备数比较基础版、旗舰版、团队版，再决定是否安装客户端，而不是只看到一个价格。</p></details><details><summary>它和普通加速器有什么关系？</summary><p>日常可以把客户端当作网络加速器来用：连接后访问需要更稳定国际线路的网站、会议或视频。不同套餐的差别在流量、同时在线设备，以及是否包含流媒体、游戏线路和优先支持，不是同一套功能换了名字。</p></details><details><summary>三个套餐应该怎么选？</summary><p>大约 3 台设备、每月 100GB、只需基础流媒体时，选基础版。需要 300GB、5 台设备、全节点流媒体和游戏加速，并希望有 7x24 优先工单时，选旗舰版。20 台设备、1000GB、高带宽节点、定制路由和专属客户经理，对应团队版。</p></details><details><summary>客户端从哪里下载才稳妥？</summary><p>只使用本页「客户端官网下载」里的桌面或移动说明，并按自己的系统继续。不要安装论坛、短链或他人转发的程序。若页面入口打不开，先确认仍停留在机场推荐本页，再稍后重试，不要改去未知站点搜索同名安装包。</p></details><details><summary>订阅导入后仍然无法连接，先查什么？</summary><p>先看订阅是否仍在有效期、当月流量是否用完，再在客户端里更换节点。同时确认本地网络正常，且客户端来自本页官网下载。多个节点都不稳定时，记下时间和设备，按套餐联系支持：旗舰版走优先工单，团队版可找专属客户经理。</p></details><details><summary>流量用完或设备超限会怎样？</summary><p>达到每月流量上限后，加速连接可能无法继续，需等待下一计费周期或按账号规则调整套餐。超过同时在线设备数时，新设备可能连不上，应先退出不再使用的设备。具体剩余流量以账号显示为准。</p></details><details><summary>可以改套餐吗？使用有什么边界？</summary><p>可以先对照另一档的流量和设备数，再在账号内办理升档或降档，生效时间以账号显示为准。请在当地法律允许的范围内使用，不要共享账号，也不要用于未授权访问他人系统、网络或数据。年付仅是价格方式，不改变这些使用边界。</p></details></section><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><p>机场推荐官网说明页，用于对照 VPN 网络加速套餐、订阅和客户端下载。请通过本页入口获取客户端。</p><p><a href=\"#intro\">返回简介</a> · <a href=\"#plans\">套餐对比</a> · <a href=\"#download\">官网下载</a></p></footer>",
+          "hash": "07752e1c1379322819f5185f7ea087ef51baf32d9634b536a3a2beacf3c53f2c",
+          "seo": {
+            "title": "机场推荐：VPN 网络加速、订阅说明与客户端官网下载",
+            "keywords": "机场推荐,VPN,网络加速,加速器,客户端下载,官网下载,订阅",
+            "description": "机场推荐说明 VPN 网络加速的适用场景、三档套餐差异、订阅使用步骤和客户端官网下载方式，帮助按流量与设备数做选择。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "ycsc1688.cn",
+    "host": "p-1fef85c1ef.ycsc1688.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "b5e7b8a518379580c3c08ba03904ffeeda1b6776dcdbf49bcc440e7ef0bfce41",
+    "sitemap.xml": "b3646b7724f933e8f42b7468682c91b903f985669b1bd8a0eff1bf33ed34cb29",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "6f79d7939fbc07fe0d68076b89b2a6de88cdd7171aaae7a8a2aeeef234f53809",
+    "robots.txt": "469c03d34b1766f5f1c0ed75873ad80d2405ac70de888d8a9219c98f62286ef6",
+    "73ee0ff4abbdca91e2539c4f3ffb46ba.txt": "582984a0d21b444ceaccf6ad1db5be6e20a67a6542d04d55684cdd321c026fb9"
+  },
+  "revision": "e5fa5b56383d1d7de804dfc294ad88826e1e83ec042d6a1331e86ef0cb3f2d4a"
+}
